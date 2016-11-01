@@ -1,2 +1,2 @@
 # CourseraPythonForEverybody
-University of Michigan Python Certification
+Exercises and Bits of Code
