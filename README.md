@@ -1,2 +1,4 @@
 # CourseraPythonForEverybody
-University of Michigan Python Certification
+## Exercises and Snippets of Code
+## Glossary of regex
+
